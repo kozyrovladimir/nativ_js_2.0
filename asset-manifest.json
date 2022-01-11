@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nativ_js_2.0/static/css/main.d6f8d820.chunk.css",
+    "main.js": "/nativ_js_2.0/static/js/main.4ee90e98.chunk.js",
+    "main.js.map": "/nativ_js_2.0/static/js/main.4ee90e98.chunk.js.map",
+    "runtime-main.js": "/nativ_js_2.0/static/js/runtime-main.fc265896.js",
+    "runtime-main.js.map": "/nativ_js_2.0/static/js/runtime-main.fc265896.js.map",
+    "static/js/2.2c0ebd75.chunk.js": "/nativ_js_2.0/static/js/2.2c0ebd75.chunk.js",
+    "static/js/2.2c0ebd75.chunk.js.map": "/nativ_js_2.0/static/js/2.2c0ebd75.chunk.js.map",
+    "index.html": "/nativ_js_2.0/index.html",
+    "static/css/main.d6f8d820.chunk.css.map": "/nativ_js_2.0/static/css/main.d6f8d820.chunk.css.map",
+    "static/js/2.2c0ebd75.chunk.js.LICENSE.txt": "/nativ_js_2.0/static/js/2.2c0ebd75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc265896.js",
+    "static/js/2.2c0ebd75.chunk.js",
+    "static/css/main.d6f8d820.chunk.css",
+    "static/js/main.4ee90e98.chunk.js"
+  ]
+}
